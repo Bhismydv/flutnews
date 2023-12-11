@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <iframe width="420" height="315"
-src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://github.com/Bhismydv/flutnews/blob/main/fluttnews.mp4)">
+src="https://github.com/Bhismydv/flutnews/blob/main/fluttnews.mp4">
 </iframe>
 
 ## Getting Started
