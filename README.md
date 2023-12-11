@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-<iframe width="420" height="315"
-src="https://github.com/Bhismydv/flutnews/blob/main/fluttnews.mp4">
-</iframe>
+![Preview](https://github.com/Bhismydv/flutnews/blob/main/fluttnews.gif)
 
 ## Getting Started
 
